@@ -5,7 +5,7 @@
             <div class="tab-content" id="v-pills-tabContent">
                 <div class="tab-pane fade active show" id="v-pills-home" role="tabpanel"
                     aria-labelledby="v-pills-home-tab">
-                    <h3 class="text-dark font-weight-medium mb-0"><strong>Apa sistem ini?</strong></h3>
+                    <h3 class="text-dark font-weight-medium mb-0"><strong>Apa sistem ini</strong></h3>
                     <p class="mb-2" align="justify">Sistem Manajemen Aset ini dirancang menjadi Software as a
                         Service untuk menjadi
                         layanan yang dapat memenuhi kebutuhan banyak perusahaan dalam satu waktu. </p>
